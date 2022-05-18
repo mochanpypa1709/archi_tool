@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IVR-RAS-002"
+    id="id-7f1d907cdbcc4c0dac6de6e57dbb0cb7"
+    documentation="Provide CDR containing the Interactive Voice Response data made from Indosat numbers">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8c4b097dc58241c28620b2a2ba478eba.xml#id-8c4b097dc58241c28620b2a2ba478eba"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e602642ba8fa4e0fa9baaced5094858e.xml#id-e602642ba8fa4e0fa9baaced5094858e"/>
+</archimate:FlowRelationship>

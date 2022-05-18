@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTL-FAB-007"
+    id="id-39946d3aa2d34ce395180ee7fbdac37c"
+    documentation="Generate Customer and FAB">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2aad9904801f44b4b4b4e0c9b93dcfc9.xml#id-2aad9904801f44b4b4b4e0c9b93dcfc9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-df81f9954ea44fcc891a83ae637c3b8b.xml#id-df81f9954ea44fcc891a83ae637c3b8b"/>
+</archimate:FlowRelationship>

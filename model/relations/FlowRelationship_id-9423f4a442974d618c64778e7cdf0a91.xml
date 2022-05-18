@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-FOSS-013"
+    id="id-9423f4a442974d618c64778e7cdf0a91"
+    documentation="Query ICCID/IMSI Info;&#xD;&#xA;Stock Transfer;&#xD;&#xA;Query Validate Stock Alocation;&#xD;&#xA;Exec Purchase - Good issue transaction;&#xD;&#xA;Stock Request;&#xD;&#xA;Stock Return;&#xD;&#xA;Change Card - Postpaid, Prepaid;&#xD;&#xA;Prepaid SIM Purchase&#xD;&#xA;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-78adac460d1a49c99f20989ff79ea656.xml#id-78adac460d1a49c99f20989ff79ea656"/>
+</archimate:FlowRelationship>

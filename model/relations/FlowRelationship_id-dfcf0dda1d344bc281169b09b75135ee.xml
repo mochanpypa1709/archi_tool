@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FLC-DWH-003"
+    id="id-dfcf0dda1d344bc281169b09b75135ee"
+    documentation="Provide log misscall alert">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-85e30ba6fe6443b080454b554b8bc32c.xml#id-85e30ba6fe6443b080454b554b8bc32c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eb39a15cf5d546c38bb461bc01ef5776.xml#id-eb39a15cf5d546c38bb461bc01ef5776"/>
+</archimate:FlowRelationship>

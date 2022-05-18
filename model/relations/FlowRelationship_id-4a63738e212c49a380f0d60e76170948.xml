@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPNFE-DWH-002"
+    id="id-4a63738e212c49a380f0d60e76170948"
+    documentation="Provide payment transaction data">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bbffebdd74984d54910cd426f300456d.xml#id-bbffebdd74984d54910cd426f300456d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eb39a15cf5d546c38bb461bc01ef5776.xml#id-eb39a15cf5d546c38bb461bc01ef5776"/>
+</archimate:FlowRelationship>

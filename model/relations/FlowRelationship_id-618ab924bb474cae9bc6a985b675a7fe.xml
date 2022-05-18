@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iPOS-QMT-005"
+    id="id-618ab924bb474cae9bc6a985b675a7fe"
+    documentation="Call Next;&#xD;&#xA;Recall;&#xD;&#xA;Recycle;&#xD;&#xA;Transfer to que;&#xD;&#xA;Delivered Service;&#xD;&#xA;Complete/end;&#xD;&#xA;Log Out;&#xD;&#xA;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2704df7e1ba84c46b846b8f5ba71c4a7.xml#id-2704df7e1ba84c46b846b8f5ba71c4a7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-686f0d1435ff45a191b247394d21d5a3.xml#id-686f0d1435ff45a191b247394d21d5a3"/>
+</archimate:FlowRelationship>

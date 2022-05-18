@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iPOS-RAS-001"
+    id="id-3a3c0c8c9fde4b49803a9724ad48c1cc"
+    documentation="Provide data of transaction in Gallery;&#xD;&#xA;Send daily transaction record">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2704df7e1ba84c46b846b8f5ba71c4a7.xml#id-2704df7e1ba84c46b846b8f5ba71c4a7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e602642ba8fa4e0fa9baaced5094858e.xml#id-e602642ba8fa4e0fa9baaced5094858e"/>
+</archimate:FlowRelationship>

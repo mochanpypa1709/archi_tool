@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCP-EMM-002"
+    id="id-3e4fb8517fcd4e3b92320beb224e628b"
+    documentation="send CDR">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-be6d34b9a1c54a4daeba940a01680ba0.xml#id-be6d34b9a1c54a4daeba940a01680ba0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eab4a5129220440abf0072f0106cee0a.xml#id-eab4a5129220440abf0072f0106cee0a"/>
+</archimate:FlowRelationship>

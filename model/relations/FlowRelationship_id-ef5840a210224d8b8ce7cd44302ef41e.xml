@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LB-FMS-001"
+    id="id-ef5840a210224d8b8ce7cd44302ef41e"
+    documentation="Provide all detailed transactions for Loan Balance given to Subscriber. Both PULSA SOS and Package purchase from Loan (data send to RA, and processing for both RA and FM)">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d70a867daa8b4dc58bbc60d06c831ff6.xml#id-d70a867daa8b4dc58bbc60d06c831ff6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-93f1b6f4e6c74f6e8d9751b6c7d1f529.xml#id-93f1b6f4e6c74f6e8d9751b6c7d1f529"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DWH-B2BSFA-003"
+    id="id-4487f73108274e15bd54877a2c60852e"
+    documentation="Provide data Pipeline;&#xD;&#xA;Get Opportunity from SFA;&#xD;&#xA;Sync sales/ product forecasting;&#xD;&#xA;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eb39a15cf5d546c38bb461bc01ef5776.xml#id-eb39a15cf5d546c38bb461bc01ef5776"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1f0216af25984c18b4acfe9d1be34420.xml#id-1f0216af25984c18b4acfe9d1be34420"/>
+</archimate:FlowRelationship>

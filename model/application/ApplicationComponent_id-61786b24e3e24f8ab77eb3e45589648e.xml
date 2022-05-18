@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMS FW A2P"
+    id="id-61786b24e3e24f8ab77eb3e45589648e"
+    documentation="revshared; SMS Content filtering">
+  <properties
+      key="Partner"
+      value="Infobip"/>
+</archimate:ApplicationComponent>

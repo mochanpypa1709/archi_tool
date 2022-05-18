@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMSC-DMP-008"
+    id="id-e67170cdee2548f7a9d6592350c922da"
+    documentation="charging request">
+  <properties
+      key="Method"
+      value="Diameter"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ef69a6b576a14fef9a9b37eb57638e1d.xml#id-ef69a6b576a14fef9a9b37eb57638e1d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7aab777de71540b98a09c8fbdd2a44a7.xml#id-7aab777de71540b98a09c8fbdd2a44a7"/>
+</archimate:FlowRelationship>

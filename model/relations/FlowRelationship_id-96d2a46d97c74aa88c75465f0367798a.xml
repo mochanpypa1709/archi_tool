@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCP-GGSN-003"
+    id="id-96d2a46d97c74aa88c75465f0367798a"
+    documentation="Data package channel">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-be6d34b9a1c54a4daeba940a01680ba0.xml#id-be6d34b9a1c54a4daeba940a01680ba0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b711a13cb8d64053b738cdf8fca3718e.xml#id-b711a13cb8d64053b738cdf8fca3718e"/>
+</archimate:FlowRelationship>

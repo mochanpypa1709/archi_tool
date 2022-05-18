@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ericsson Multi Mediation (EMM)"
+    id="id-eab4a5129220440abf0072f0106cee0a"
+    documentation="Billing Batch Mediation System">
+  <properties
+      key="Partner"
+      value="Ericsson"/>
+</archimate:ApplicationComponent>

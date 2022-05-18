@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CCN-DWH-004"
+    id="id-79b063f79c7641cbb872e516a14c9860"
+    documentation="Provide subscriber usage transaction">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dab0aae12cdf4ce8922bd1504286a8b8.xml#id-dab0aae12cdf4ce8922bd1504286a8b8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eb39a15cf5d546c38bb461bc01ef5776.xml#id-eb39a15cf5d546c38bb461bc01ef5776"/>
+</archimate:FlowRelationship>

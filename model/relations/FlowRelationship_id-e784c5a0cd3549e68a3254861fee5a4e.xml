@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRTM-UMB-006"
+    id="id-e784c5a0cd3549e68a3254861fee5a4e"
+    documentation="USSD push ">
+  <properties
+      key="Method"
+      value="HTTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd9abd2ceead4669a83cd5f98c278b52.xml#id-dd9abd2ceead4669a83cd5f98c278b52"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d3b961fed0fc4f9b94374d02f7a7e936.xml#id-d3b961fed0fc4f9b94374d02f7a7e936"/>
+</archimate:FlowRelationship>

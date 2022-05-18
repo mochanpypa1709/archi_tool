@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-RBM-014"
+    id="id-ac0ca94d36984094be60c013308ce1e1"
+    documentation="Query Billing Info;&#xD;&#xA;Query Outstanding Invoice;&#xD;&#xA;Execute post bill payment;&#xD;&#xA;Execute post bill payment update (cancel);">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-43a19a925fef449a98e454692392959d.xml#id-43a19a925fef449a98e454692392959d"/>
+</archimate:FlowRelationship>

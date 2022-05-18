@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IM3-PGI-006"
+    id="id-535057911725486883a607496f93df0a"
+    documentation="Payment Request">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8703b02e88044aa89e6c99b05bed599e.xml#id-8703b02e88044aa89e6c99b05bed599e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fbce367656c24afd8c9ed5fb41aa8680.xml#id-fbce367656c24afd8c9ed5fb41aa8680"/>
+</archimate:FlowRelationship>

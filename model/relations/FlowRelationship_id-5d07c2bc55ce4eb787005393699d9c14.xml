@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VCH-NMT-006"
+    id="id-5d07c2bc55ce4eb787005393699d9c14"
+    documentation="Network Monitoring">
+  <properties
+      key="Method"
+      value="SNMP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e074e1a5de8f4bee9925bd310a0ef80a.xml#id-e074e1a5de8f4bee9925bd310a0ef80a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bfb88c62ef6f4e0c9899564bfb8daab1.xml#id-bfb88c62ef6f4e0c9899564bfb8daab1"/>
+</archimate:FlowRelationship>

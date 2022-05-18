@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADM"
+    id="id-09302e4fd94647ecb323ffa85e3aacfd"
+    documentation="IMEI Checking System; Automatic Device Detection System">
+  <properties
+      key="Partner"
+      value="Invigo"/>
+</archimate:ApplicationComponent>

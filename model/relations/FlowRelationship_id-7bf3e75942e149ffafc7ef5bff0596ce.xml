@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KIOSK-iGate-005"
+    id="id-7bf3e75942e149ffafc7ef5bff0596ce"
+    documentation="Payment">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-da375d1f762b44878b96a844a43eda41.xml#id-da375d1f762b44878b96a844a43eda41"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b5dc79292a5f4f23931525672b759876.xml#id-b5dc79292a5f4f23931525672b759876"/>
+</archimate:FlowRelationship>

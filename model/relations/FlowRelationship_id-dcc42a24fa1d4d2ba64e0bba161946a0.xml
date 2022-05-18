@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PGI-iGate-001"
+    id="id-dcc42a24fa1d4d2ba64e0bba161946a0"
+    documentation="Reporting Process">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fbce367656c24afd8c9ed5fb41aa8680.xml#id-fbce367656c24afd8c9ed5fb41aa8680"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b5dc79292a5f4f23931525672b759876.xml#id-b5dc79292a5f4f23931525672b759876"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-LB-009"
+    id="id-d4cd062f3e974daa9f08de586185e00b"
+    documentation="Get Eligible Loan Offer">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d70a867daa8b4dc58bbc60d06c831ff6.xml#id-d70a867daa8b4dc58bbc60d06c831ff6"/>
+</archimate:FlowRelationship>

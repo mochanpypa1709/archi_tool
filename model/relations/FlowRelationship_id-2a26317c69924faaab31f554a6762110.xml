@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CCN-FMS-003"
+    id="id-2a26317c69924faaab31f554a6762110"
+    documentation="Provide subscriber usage transaction  (data send to RA, and processing for both RA and FM)">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dab0aae12cdf4ce8922bd1504286a8b8.xml#id-dab0aae12cdf4ce8922bd1504286a8b8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-93f1b6f4e6c74f6e8d9751b6c7d1f529.xml#id-93f1b6f4e6c74f6e8d9751b6c7d1f529"/>
+</archimate:FlowRelationship>

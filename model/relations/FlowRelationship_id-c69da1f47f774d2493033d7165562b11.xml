@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRTM-SMSC-005"
+    id="id-c69da1f47f774d2493033d7165562b11"
+    documentation="SMS notification related to campaigns ">
+  <properties
+      key="Method"
+      value="SMPP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd9abd2ceead4669a83cd5f98c278b52.xml#id-dd9abd2ceead4669a83cd5f98c278b52"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ef69a6b576a14fef9a9b37eb57638e1d.xml#id-ef69a6b576a14fef9a9b37eb57638e1d"/>
+</archimate:FlowRelationship>

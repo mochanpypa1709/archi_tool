@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBS-ADM-001"
+    id="id-7a4d5ea428c84824a257511815e217ff"
+    documentation="receive IMEI &amp; MSISDN pair info for bundling package">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a3c80fbb6b3a401c8f673877c5912a28.xml#id-a3c80fbb6b3a401c8f673877c5912a28"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-09302e4fd94647ecb323ffa85e3aacfd.xml#id-09302e4fd94647ecb323ffa85e3aacfd"/>
+</archimate:FlowRelationship>

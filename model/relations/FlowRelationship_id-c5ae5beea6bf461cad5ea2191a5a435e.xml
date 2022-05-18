@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMSFW-SMSC-003"
+    id="id-c5ae5beea6bf461cad5ea2191a5a435e"
+    documentation="send/receive A2P SMS">
+  <properties
+      key="Method"
+      value="SMPP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-61786b24e3e24f8ab77eb3e45589648e.xml#id-61786b24e3e24f8ab77eb3e45589648e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ef69a6b576a14fef9a9b37eb57638e1d.xml#id-ef69a6b576a14fef9a9b37eb57638e1d"/>
+</archimate:FlowRelationship>

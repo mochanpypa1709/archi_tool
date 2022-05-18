@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL-DWH-002"
+    id="id-2c609ab11d99423bb22abd780c0af331"
+    documentation="Data processing">
+  <properties
+      key="Method"
+      value="Batch File"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3c60e6e4a5f4d8f84c21cfc4113567d.xml#id-b3c60e6e4a5f4d8f84c21cfc4113567d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eb39a15cf5d546c38bb461bc01ef5776.xml#id-eb39a15cf5d546c38bb461bc01ef5776"/>
+</archimate:FlowRelationship>

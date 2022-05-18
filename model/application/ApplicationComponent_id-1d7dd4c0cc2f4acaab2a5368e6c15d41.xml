@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMPP Gateway"
+    id="id-1d7dd4c0cc2f4acaab2a5368e6c15d41"
+    documentation="SMPP Gateway System to SMSC">
+  <properties
+      key="Partner"
+      value="Digispice"/>
+</archimate:ApplicationComponent>

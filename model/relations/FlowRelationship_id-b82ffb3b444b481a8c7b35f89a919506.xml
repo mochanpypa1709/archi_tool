@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VCH-SMTP-008"
+    id="id-b82ffb3b444b481a8c7b35f89a919506"
+    documentation="Server Monitoring">
+  <properties
+      key="Method"
+      value="SMTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e074e1a5de8f4bee9925bd310a0ef80a.xml#id-e074e1a5de8f4bee9925bd310a0ef80a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-90cc02ea23254c7fa52d38f4bea1100e.xml#id-90cc02ea23254c7fa52d38f4bea1100e"/>
+</archimate:FlowRelationship>
