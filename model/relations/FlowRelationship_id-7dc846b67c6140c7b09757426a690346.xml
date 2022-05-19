@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LB-UMB-004"
+    id="id-7dc846b67c6140c7b09757426a690346"
+    documentation="channel">
+  <properties
+      key="Method"
+      value="HTTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d70a867daa8b4dc58bbc60d06c831ff6.xml#id-d70a867daa8b4dc58bbc60d06c831ff6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d3b961fed0fc4f9b94374d02f7a7e936.xml#id-d3b961fed0fc4f9b94374d02f7a7e936"/>
+</archimate:FlowRelationship>

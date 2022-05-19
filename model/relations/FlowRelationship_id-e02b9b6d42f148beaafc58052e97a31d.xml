@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIR-ADM-005"
+    id="id-e02b9b6d42f148beaafc58052e97a31d"
+    documentation="send response IMEI registration status (WL/GL/BL)">
+  <properties
+      key="Method"
+      value="Data Service"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9c701d0e883541fa97bb2f4beba8024d.xml#id-9c701d0e883541fa97bb2f4beba8024d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-09302e4fd94647ecb323ffa85e3aacfd.xml#id-09302e4fd94647ecb323ffa85e3aacfd"/>
+</archimate:FlowRelationship>

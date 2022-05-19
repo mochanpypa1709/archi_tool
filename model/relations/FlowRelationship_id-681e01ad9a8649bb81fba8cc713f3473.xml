@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B2BSFA-NGSSP-002"
+    id="id-681e01ad9a8649bb81fba8cc713f3473"
+    documentation="Basic Inquiry, Service Request, Validation to Customer Data, Billing, etc;&#xD;&#xA;Sync opportunity to CRM;&#xD;&#xA;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1f0216af25984c18b4acfe9d1be34420.xml#id-1f0216af25984c18b4acfe9d1be34420"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+</archimate:FlowRelationship>

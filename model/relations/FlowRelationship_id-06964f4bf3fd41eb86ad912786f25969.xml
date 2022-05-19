@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VSIL-NGSSP-001"
+    id="id-06964f4bf3fd41eb86ad912786f25969"
+    documentation="Provisioning">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5e04ec036ff04f74ba56d85dd5f45c7d.xml#id-5e04ec036ff04f74ba56d85dd5f45c7d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+</archimate:FlowRelationship>

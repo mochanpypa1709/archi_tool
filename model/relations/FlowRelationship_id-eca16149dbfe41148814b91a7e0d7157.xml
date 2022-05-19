@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADM-CTL-008"
+    id="id-eca16149dbfe41148814b91a7e0d7157"
+    documentation="send IMEI status info">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-09302e4fd94647ecb323ffa85e3aacfd.xml#id-09302e4fd94647ecb323ffa85e3aacfd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2aad9904801f44b4b4b4e0c9b93dcfc9.xml#id-2aad9904801f44b4b4b4e0c9b93dcfc9"/>
+</archimate:FlowRelationship>

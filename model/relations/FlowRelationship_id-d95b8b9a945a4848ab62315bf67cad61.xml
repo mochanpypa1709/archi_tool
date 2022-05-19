@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRTM-HDP-002"
+    id="id-d95b8b9a945a4848ab62315bf67cad61"
+    documentation="Provide data which are used for the Real Time Marketting from Indosat for promotional offers.">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd9abd2ceead4669a83cd5f98c278b52.xml#id-dd9abd2ceead4669a83cd5f98c278b52"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03bdfc45be7c43d0ac7a96925f270845.xml#id-03bdfc45be7c43d0ac7a96925f270845"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MCRL-HDP-001"
+    id="id-a086a4333bad46b7bd80221c4435cb75"
+    documentation="Offering campaign through SMS;&#xD;&#xA;data analytic;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-213a662ae7e3454fbb2142bf37c99879.xml#id-213a662ae7e3454fbb2142bf37c99879"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03bdfc45be7c43d0ac7a96925f270845.xml#id-03bdfc45be7c43d0ac7a96925f270845"/>
+</archimate:FlowRelationship>

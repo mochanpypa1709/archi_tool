@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DMP-VSIL-007"
+    id="id-7d275a91cb2b4477b66fd9fbe4a63778"
+    documentation="Provisioning">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7aab777de71540b98a09c8fbdd2a44a7.xml#id-7aab777de71540b98a09c8fbdd2a44a7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5e04ec036ff04f74ba56d85dd5f45c7d.xml#id-5e04ec036ff04f74ba56d85dd5f45c7d"/>
+</archimate:FlowRelationship>

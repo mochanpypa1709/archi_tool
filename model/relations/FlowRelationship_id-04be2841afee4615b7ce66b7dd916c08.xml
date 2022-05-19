@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRS-RAS-002"
+    id="id-04be2841afee4615b7ce66b7dd916c08"
+    documentation="Provide prepaid registration status">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2f11410ccc644d4bb23a4ccafdd26e68.xml#id-2f11410ccc644d4bb23a4ccafdd26e68"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e602642ba8fa4e0fa9baaced5094858e.xml#id-e602642ba8fa4e0fa9baaced5094858e"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTL-NGSSP-005"
+    id="id-5e551eef6bef4765b74dc8d76af2582a"
+    documentation="Basic Inquiry, Service Request, Validation to backend&#xD;&#xA;Account and related data sync to SFA GSA">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2aad9904801f44b4b4b4e0c9b93dcfc9.xml#id-2aad9904801f44b4b4b4e0c9b93dcfc9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-HDP-001"
+    id="id-526dc8101e2646219fca838d0574b1ec"
+    documentation="Provide data transaction, snapshot and log for Package transaction">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03bdfc45be7c43d0ac7a96925f270845.xml#id-03bdfc45be7c43d0ac7a96925f270845"/>
+</archimate:FlowRelationship>

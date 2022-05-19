@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-iCare-016"
+    id="id-27873a3658f444f78972bc0ec0ab3b46"
+    documentation="Submit Order Trigger;&#xD;&#xA;Postpaid Activation;&#xD;&#xA;Validate Reserve MSISDN;&#xD;&#xA;Prepaid Registration;&#xD;&#xA;Change Package Plan - Postpaid;&#xD;&#xA;Change Card - Postpaid, Prepaid, B2B;&#xD;&#xA;Reactivation - Postpaid, Prepaid;&#xD;&#xA;Migration - Pre2Post;&#xD;&#xA;Migration - Post2Pre;&#xD;&#xA;Contract Renewal - Postpaid;&#xD;&#xA;Activate International Roaming;&#xD;&#xA;Get Customer Profile;&#xD;&#xA;Change Package Plan - Postpaid;&#xD;&#xA;Change Card - Postpaid, Prepaid;&#xD;&#xA;Prepaid SIM Purchase;&#xD;&#xA;Get Customer Profile;&#xD;&#xA;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3579103b8bd0463f9ad79d47c1ca92e2.xml#id-3579103b8bd0463f9ad79d47c1ca92e2"/>
+</archimate:FlowRelationship>

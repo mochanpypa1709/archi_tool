@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPL-MOBO-001"
+    id="id-d694442abb644504bae00c6d04cc107f"
+    documentation="Purchase product">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-564234e1ecf64349ab387dc1fcfcef25.xml#id-564234e1ecf64349ab387dc1fcfcef25"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cd9215e49363454c9fe6a122ee284f75.xml#id-cd9215e49363454c9fe6a122ee284f75"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iCare-HDP-003"
+    id="id-13b4fdf0566047068f8213627b727bb1"
+    documentation="Provide postpaid customer B2C">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3579103b8bd0463f9ad79d47c1ca92e2.xml#id-3579103b8bd0463f9ad79d47c1ca92e2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03bdfc45be7c43d0ac7a96925f270845.xml#id-03bdfc45be7c43d0ac7a96925f270845"/>
+</archimate:FlowRelationship>

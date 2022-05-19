@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FMS-TRT-001"
+    id="id-f9df76c0628346dc968dcccd62dfd5eb"
+    documentation="Blocking MSISDN to HLR">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-93f1b6f4e6c74f6e8d9751b6c7d1f529.xml#id-93f1b6f4e6c74f6e8d9751b6c7d1f529"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07303d272aec4e3c838655154b51f6df.xml#id-07303d272aec4e3c838655154b51f6df"/>
+</archimate:FlowRelationship>

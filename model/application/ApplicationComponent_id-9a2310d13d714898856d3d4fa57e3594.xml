@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signaling Transfer Point (STP)"
+    id="id-9a2310d13d714898856d3d4fa57e3594">
+  <properties
+      key="Partner"
+      value="Huawei"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDP-MRTM-005"
+    id="id-e58d1caa16ed4524a442a5698e2c68c9"
+    documentation="Postpaid Triggers">
+  <properties
+      key="Method"
+      value="HTTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f26aea089c244b2fa4573064b288cff1.xml#id-f26aea089c244b2fa4573064b288cff1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd9abd2ceead4669a83cd5f98c278b52.xml#id-dd9abd2ceead4669a83cd5f98c278b52"/>
+</archimate:FlowRelationship>

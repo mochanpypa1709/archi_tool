@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-CRS-019"
+    id="id-d651a89fa3614e12aa16bd2e6a9a7420"
+    documentation="Selfcare registration status;&#xD;&#xA;Selfcare NIK status;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2f11410ccc644d4bb23a4ccafdd26e68.xml#id-2f11410ccc644d4bb23a4ccafdd26e68"/>
+</archimate:FlowRelationship>

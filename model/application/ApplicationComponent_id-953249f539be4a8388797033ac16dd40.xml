@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NR Tool"
+    id="id-953249f539be4a8388797033ac16dd40"
+    documentation="Number Release Tool&#xD;&#xA;Automatic Prepaid LifeCycle System (Deletion)">
+  <properties
+      key="Partner"
+      value="IBM"/>
+</archimate:ApplicationComponent>

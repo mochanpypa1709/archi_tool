@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JSP-EMM-004"
+    id="id-a6cd2a26f5374f408ea410cd1cd4fd82"
+    documentation="send CDR">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-df76fe575e2e4cf2b366c100264d4a7f.xml#id-df76fe575e2e4cf2b366c100264d4a7f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eab4a5129220440abf0072f0106cee0a.xml#id-eab4a5129220440abf0072f0106cee0a"/>
+</archimate:FlowRelationship>

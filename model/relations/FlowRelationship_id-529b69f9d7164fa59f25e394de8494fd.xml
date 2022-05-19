@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-NMS-022"
+    id="id-529b69f9d7164fa59f25e394de8494fd"
+    documentation="Execute Suspend, Resume">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b13c370dd0d6488088bcc7644cb869f7.xml#id-b13c370dd0d6488088bcc7644cb869f7"/>
+</archimate:FlowRelationship>

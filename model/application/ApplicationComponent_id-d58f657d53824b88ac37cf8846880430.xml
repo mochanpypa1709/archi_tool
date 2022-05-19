@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roaming Service Platform (RSP)"
+    id="id-d58f657d53824b88ac37cf8846880430"
+    documentation="Provide service for inbound and outbound roaming">
+  <properties
+      key="Partner"
+      value="Mobileum"/>
+</archimate:ApplicationComponent>

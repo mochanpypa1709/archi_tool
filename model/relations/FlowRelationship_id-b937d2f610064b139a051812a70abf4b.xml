@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-VCH-012"
+    id="id-b937d2f610064b139a051812a70abf4b"
+    documentation="Query Voucher Info / Voucher Status/History">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e074e1a5de8f4bee9925bd310a0ef80a.xml#id-e074e1a5de8f4bee9925bd310a0ef80a"/>
+</archimate:FlowRelationship>

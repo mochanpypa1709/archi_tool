@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-DMP-008"
+    id="id-f914a3f82d6b45acac0f97d9ca118417"
+    documentation="Charging ,  Balance &amp; Offer Query , etc.">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7aab777de71540b98a09c8fbdd2a44a7.xml#id-7aab777de71540b98a09c8fbdd2a44a7"/>
+</archimate:FlowRelationship>

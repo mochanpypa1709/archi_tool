@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IM3-RAS-002"
+    id="id-6f067bab3e4a4adb9e1b4d66dd5ded73"
+    documentation="Provide information in regard with MyIM3 app">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8703b02e88044aa89e6c99b05bed599e.xml#id-8703b02e88044aa89e6c99b05bed599e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e602642ba8fa4e0fa9baaced5094858e.xml#id-e602642ba8fa4e0fa9baaced5094858e"/>
+</archimate:FlowRelationship>

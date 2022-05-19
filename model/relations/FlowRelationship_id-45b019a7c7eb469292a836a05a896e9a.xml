@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-IVS-018"
+    id="id-45b019a7c7eb469292a836a05a896e9a"
+    documentation="IVS Check Bad Debt">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1de8bde104e4446184f202dec1facf3c.xml#id-1de8bde104e4446184f202dec1facf3c"/>
+</archimate:FlowRelationship>

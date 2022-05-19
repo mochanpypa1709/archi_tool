@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QMT-NGSSP-001"
+    id="id-28c856135ea148d2a003a9ef758a8cad"
+    documentation="Get Customer Profile">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-686f0d1435ff45a191b247394d21d5a3.xml#id-686f0d1435ff45a191b247394d21d5a3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+</archimate:FlowRelationship>

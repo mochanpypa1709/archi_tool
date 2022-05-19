@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSP-SMSC-001"
+    id="id-10a1423a445045be88b9cb3833bf17a9"
+    documentation="Send SMS Notification">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6fca4b4ea13d4ea88199ba06936dc134.xml#id-6fca4b4ea13d4ea88199ba06936dc134"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ef69a6b576a14fef9a9b37eb57638e1d.xml#id-ef69a6b576a14fef9a9b37eb57638e1d"/>
+</archimate:FlowRelationship>

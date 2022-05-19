@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iGate-FMS-003"
+    id="id-08b2423fed994117bd5f409a52a6df63"
+    documentation="Provide partner recharge transaction">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b5dc79292a5f4f23931525672b759876.xml#id-b5dc79292a5f4f23931525672b759876"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-93f1b6f4e6c74f6e8d9751b6c7d1f529.xml#id-93f1b6f4e6c74f6e8d9751b6c7d1f529"/>
+</archimate:FlowRelationship>

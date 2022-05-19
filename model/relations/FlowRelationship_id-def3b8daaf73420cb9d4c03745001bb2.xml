@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VCH-RAS-004"
+    id="id-def3b8daaf73420cb9d4c03745001bb2"
+    documentation="Provide transaction and snapshot physical voucher">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e074e1a5de8f4bee9925bd310a0ef80a.xml#id-e074e1a5de8f4bee9925bd310a0ef80a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e602642ba8fa4e0fa9baaced5094858e.xml#id-e602642ba8fa4e0fa9baaced5094858e"/>
+</archimate:FlowRelationship>

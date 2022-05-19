@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGSSP-CTL-017"
+    id="id-12ee5c6769264c068fb0f554650aee92"
+    documentation="Submit Order Trigger">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2aad9904801f44b4b4b4e0c9b93dcfc9.xml#id-2aad9904801f44b4b4b4e0c9b93dcfc9"/>
+</archimate:FlowRelationship>

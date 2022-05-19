@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMSCOL-STP-006"
+    id="id-500d505bbe2641468b6d06c49abf028c"
+    documentation="send sms offer and original">
+  <properties
+      key="Method"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-86a7bfe6cc3d452899c4247ad1aee7aa.xml#id-86a7bfe6cc3d452899c4247ad1aee7aa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9a2310d13d714898856d3d4fa57e3594.xml#id-9a2310d13d714898856d3d4fa57e3594"/>
+</archimate:FlowRelationship>

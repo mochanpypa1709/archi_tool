@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HDP-CRM-003"
+    id="id-a39450d112794b0cbc72aba36da1190e"
+    documentation="Provide subcriber usage information CDR Inquiry">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03bdfc45be7c43d0ac7a96925f270845.xml#id-03bdfc45be7c43d0ac7a96925f270845"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f957d84248b44728da94ea27af02719.xml#id-4f957d84248b44728da94ea27af02719"/>
+</archimate:FlowRelationship>

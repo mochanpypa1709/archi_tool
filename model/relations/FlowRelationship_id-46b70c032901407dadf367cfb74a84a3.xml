@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iCare-RAS-004"
+    id="id-46b70c032901407dadf367cfb74a84a3"
+    documentation="Provide postpaid customer B2C">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3579103b8bd0463f9ad79d47c1ca92e2.xml#id-3579103b8bd0463f9ad79d47c1ca92e2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e602642ba8fa4e0fa9baaced5094858e.xml#id-e602642ba8fa4e0fa9baaced5094858e"/>
+</archimate:FlowRelationship>

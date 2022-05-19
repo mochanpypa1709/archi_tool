@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iPOS-NGSSP-004"
+    id="id-02b77d96ca244f969f9a923263d7399f"
+    documentation="Get Customer Profile;&#xD;&#xA;Postpaid Activation;&#xD;&#xA;IVS Check Bad Debt;&#xD;&#xA;Validate Reserve MSISDN;&#xD;&#xA;KYC Biometric Validation;&#xD;&#xA;Query Outstanding Invoice;&#xD;&#xA;Execute post bill payment;&#xD;&#xA;Execute post bill payment update (cancel);&#xD;&#xA;Stock Transfer;&#xD;&#xA;Query Validate Stock Alocation;&#xD;&#xA;Exec Purchase - Good issue transaction;&#xD;&#xA;Stock Request;&#xD;&#xA;Stock Return;&#xD;&#xA;Selfcare registration status;&#xD;&#xA;Selfcare NIK status;&#xD;&#xA;Prepaid Registration;&#xD;&#xA;LMS Get Reward List;&#xD;&#xA;LMS Redeem;&#xD;&#xA;LMS Get Subsriber History;&#xD;&#xA;LMS Get Balance;&#xD;&#xA;Change Package Plan - Postpaid;&#xD;&#xA;Change Card - Postpaid, Prepaid, B2B;&#xD;&#xA;Reactivation - Postpaid, Prepaid;&#xD;&#xA;Migration - Pre2Post;&#xD;&#xA;Migration - Post2Pre;&#xD;&#xA;Contract Renewal - Postpaid;&#xD;&#xA;Activate International Roaming;&#xD;&#xA;Balance Reload;&#xD;&#xA;Add On Purchase;&#xD;&#xA;Package Offering Prepaid;&#xD;&#xA;Package Offering Postpaid;&#xD;&#xA;">
+  <properties
+      key="Method"
+      value="API"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2704df7e1ba84c46b846b8f5ba71c4a7.xml#id-2704df7e1ba84c46b846b8f5ba71c4a7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fe9d35adf69443bb824e524836247162.xml#id-fe9d35adf69443bb824e524836247162"/>
+</archimate:FlowRelationship>

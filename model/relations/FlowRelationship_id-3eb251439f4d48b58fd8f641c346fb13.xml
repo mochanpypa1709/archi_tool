@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTL-HDP-003"
+    id="id-3eb251439f4d48b58fd8f641c346fb13"
+    documentation="Provide postpaid customer B2B;&#xD;&#xA;Sync Customer Account, Opportunity, Quote, Order, Asset, Service Request">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2aad9904801f44b4b4b4e0c9b93dcfc9.xml#id-2aad9904801f44b4b4b4e0c9b93dcfc9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03bdfc45be7c43d0ac7a96925f270845.xml#id-03bdfc45be7c43d0ac7a96925f270845"/>
+</archimate:FlowRelationship>

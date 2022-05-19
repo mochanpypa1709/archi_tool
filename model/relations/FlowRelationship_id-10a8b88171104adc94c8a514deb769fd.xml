@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMSC-STP-005"
+    id="id-10a8b88171104adc94c8a514deb769fd"
+    documentation="send/receive MAP signalling">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ef69a6b576a14fef9a9b37eb57638e1d.xml#id-ef69a6b576a14fef9a9b37eb57638e1d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9a2310d13d714898856d3d4fa57e3594.xml#id-9a2310d13d714898856d3d4fa57e3594"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL-HDP-001"
+    id="id-4e99d84c5fa64439b7025c8e9f880fd2"
+    documentation="Data processing">
+  <properties
+      key="Method"
+      value="Batch File"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3c60e6e4a5f4d8f84c21cfc4113567d.xml#id-b3c60e6e4a5f4d8f84c21cfc4113567d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03bdfc45be7c43d0ac7a96925f270845.xml#id-03bdfc45be7c43d0ac7a96925f270845"/>
+</archimate:FlowRelationship>

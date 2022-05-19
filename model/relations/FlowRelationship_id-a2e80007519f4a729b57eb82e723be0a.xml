@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMSC-DWH-001"
+    id="id-a2e80007519f4a729b57eb82e723be0a"
+    documentation="Provide SMSC CDR">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ef69a6b576a14fef9a9b37eb57638e1d.xml#id-ef69a6b576a14fef9a9b37eb57638e1d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eb39a15cf5d546c38bb461bc01ef5776.xml#id-eb39a15cf5d546c38bb461bc01ef5776"/>
+</archimate:FlowRelationship>

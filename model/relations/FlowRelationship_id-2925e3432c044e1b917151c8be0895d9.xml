@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iGate-SPNBE-006"
+    id="id-2925e3432c044e1b917151c8be0895d9"
+    documentation="Report Payment">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b5dc79292a5f4f23931525672b759876.xml#id-b5dc79292a5f4f23931525672b759876"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cd55844673204db0a1a0e587417bcd70.xml#id-cd55844673204db0a1a0e587417bcd70"/>
+</archimate:FlowRelationship>

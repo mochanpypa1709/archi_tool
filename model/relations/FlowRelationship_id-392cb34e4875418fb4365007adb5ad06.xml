@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPNBE-SAP-005"
+    id="id-392cb34e4875418fb4365007adb5ad06"
+    documentation="Revenue Reporting">
+  <properties
+      key="Method"
+      value="FTP"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cd55844673204db0a1a0e587417bcd70.xml#id-cd55844673204db0a1a0e587417bcd70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e622a773e1664fa987e43470c2d48c16.xml#id-e622a773e1664fa987e43470c2d48c16"/>
+</archimate:FlowRelationship>
