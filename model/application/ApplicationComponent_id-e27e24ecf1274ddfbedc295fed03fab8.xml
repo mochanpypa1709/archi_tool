@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ISIGNUM"
-    id="id-e27e24ecf1274ddfbedc295fed03fab8"
-    documentation="Ticketing system for Non Mobile">
-  <properties
-      key="Partner"
-      value="Ericsson"/>
-</archimate:ApplicationComponent>

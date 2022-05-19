@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Centralized Equipment Identity Register (CEIR)"
-    id="id-2732c950d441413ea98451f6455b0d8c"
-    documentation="centralized EIR , governement owned">
-  <properties
-      key="Partner"
-      value="Mavenir"/>
-</archimate:ApplicationComponent>

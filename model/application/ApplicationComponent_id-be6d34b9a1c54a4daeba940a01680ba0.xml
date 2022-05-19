@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="M2M DCP"
-    id="id-be6d34b9a1c54a4daeba940a01680ba0"
-    documentation="M2M Connectivity Platform">
-  <properties
-      key="Partner"
-      value="Ericsson"/>
-</archimate:ApplicationComponent>

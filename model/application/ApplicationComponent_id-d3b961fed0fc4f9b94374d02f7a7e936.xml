@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="UMB"
-    id="id-d3b961fed0fc4f9b94374d02f7a7e936"
-    documentation="USSD system">
-  <properties
-      key="Partner"
-      value="Digispice"/>
-</archimate:ApplicationComponent>

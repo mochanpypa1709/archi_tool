@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EIR"
-    id="id-9c701d0e883541fa97bb2f4beba8024d"
-    documentation="IMEI filtering system">
-  <properties
-      key="Partner"
-      value="Invigo"/>
-</archimate:ApplicationComponent>

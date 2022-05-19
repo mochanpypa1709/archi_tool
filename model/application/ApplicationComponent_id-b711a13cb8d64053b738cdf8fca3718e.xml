@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GGSN"
-    id="id-b711a13cb8d64053b738cdf8fca3718e"
-    documentation="Packet Data Gateway">
-  <properties
-      key="Partner"
-      value="Huawei"/>
-</archimate:ApplicationComponent>

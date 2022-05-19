@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SALDO MOBO"
-    id="id-cd9215e49363454c9fe6a122ee284f75"
-    documentation="Retailer Application &amp; Electronic Recharge System">
-  <properties
-      key="Partner"
-      value="Huawei"/>
-</archimate:ApplicationComponent>

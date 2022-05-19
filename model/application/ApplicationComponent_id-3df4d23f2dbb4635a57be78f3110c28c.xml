@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VFree"
-    id="id-3df4d23f2dbb4635a57be78f3110c28c"
-    documentation="Bill Printing">
-  <properties
-      key="Partner"
-      value="IBM, Cybertrend"/>
-</archimate:ApplicationComponent>
